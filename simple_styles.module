@@ -1,0 +1,6 @@
+<?php
+function simple_styles_ctools_plugin_directory($module, $plugin) {
+  if ($module == 'panels') {
+    return 'plugins/' . $plugin;
+  }
+}

@@ -1,0 +1,7 @@
+name = Simple styles
+description = "Simple style to create border in panel"
+dependencies[] = panels
+package = "Panels"
+core = 7.x
+
+version = "7.x-1.0"
