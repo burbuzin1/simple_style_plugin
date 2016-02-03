@@ -1,0 +1,21 @@
+
+.border-width{
+    border-width: 10px;
+}
+.border-solid{
+ border-style: solid;
+}
+.border-dotted {
+ border-style: dotted;
+}
+
+.border-dashed {
+  border-style: dashed;
+}
+
+.border-double {
+  border-style: double;
+}
+.bgcolor-groove {
+    border-style: groove;
+}
